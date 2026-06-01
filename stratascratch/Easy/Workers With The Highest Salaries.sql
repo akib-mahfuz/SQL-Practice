@@ -14,3 +14,4 @@ where worker.salary =
     join title on worker.worker_id = title.worker_ref_id
     where title.worker_title is not null
     );
+    
