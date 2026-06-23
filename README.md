@@ -1,6 +1,6 @@
 # SQL Interview Practice (PostgreSQL)
 
-This repository contains my SQL interview solutions from StrataScratch.
+This repository contains my SQL interview solutions from StrataScratch, Leetcode.
 
 ## Topics Covered
 - Joins
